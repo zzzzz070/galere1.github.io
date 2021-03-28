@@ -1,0 +1,85 @@
+*{
+  margin:0 ;
+  padding:0 ;
+  box-sizing: border-box;
+}
+
+
+
+body{
+
+  background-image: url(zz.png);
+  background-size: 100%;
+
+}
+.main{
+background-color:rgb(241, 232, 180);
+height: 100%;
+width: 69%;
+margin: auto;
+display: flex;
+flex-wrap: wrap;
+box-shadow: 0 0 20px 1px black;
+
+}
+.box{
+background-color:rgb(158, 4, 4);
+
+height:250px;
+width: 250px;
+margin-top: 20px;
+margin-left: 10px;
+
+ }
+
+ img{
+  height: 400px;
+  width: 500px;     
+ 
+}
+
+.img1{
+    height:600px ;
+    width: 900px; ;
+   
+
+
+
+
+
+}
+
+
+
+
+
+
+h1{
+    margin-left: 350px;
+   color: rgb(6, 94, 3);
+   font-size: 40px;
+ 
+ 
+ 
+ }
+ p{
+font-size: 30px;
+
+
+
+
+
+
+ }
+.img2{
+  height: 600px;
+  width: 800px; ;
+
+
+
+
+
+
+}
+
+
